@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🎓 I'm an Informatics student at [Universitas kamu]<br>🤖 Passionate about Machine Learning, AI Engineering, and Cyber Security<br>🌱 Currently learning and exploring the world of AI & data-driven systems<br>🔐 Interested in building secure and intelligent applications<br>🚀 Aspiring to become an AI Engineer & Security Enthusiast<br>⚡ Fun fact: I think bugs are just features waiting to be secured 😄</p>
+<p align="left">🎓 I'm an Informatics student at Telkom University<br>🤖 Passionate about Machine Learning, AI Engineering, and Cyber Security<br>🌱 Currently learning and exploring the world of AI & data-driven systems<br>🔐 Interested in building secure and intelligent applications<br>🚀 Aspiring to become an AI Engineer & Security Enthusiast<br>⚡ Fun fact: I think bugs are just features waiting to be secured 😄</p>
 
 ###
 
