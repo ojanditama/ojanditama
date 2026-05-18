@@ -2,7 +2,7 @@
 
 <!-- Banner Image - Ganti dengan banner kamu sendiri (upload ke repo, buat di Canva) -->
 <p align="center">
-  <img src="HI! i am Fauzan.png" alt="Banner" width="100%" />
+  <img src="HI! I am Fauzan.png" alt="Banner" width="100%" />
 </p>
 <!-- Nama & Subtitle -->
 
