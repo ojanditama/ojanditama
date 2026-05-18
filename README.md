@@ -5,8 +5,7 @@
   <img src="HI! I am Fauzan.png" alt="Banner" width="100%" />
 </p>
 <!-- Nama & Subtitle -->
-
-<br/>
+<h2 align="center">Hello World! I am Fauzan 👋</h2>
 <!-- Badges -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=[USERNAME].[USERNAME]" alt="visitors" />
