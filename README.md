@@ -4,7 +4,6 @@
 </p>
 <!-- Nama & Subtitle -->
 <h2 align="center">Hello World! I am Fauzan 👋</h2>
-<br/>
 <!-- Badges -->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=[USERNAME].[USERNAME]" alt="visitors" />
@@ -58,3 +57,13 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+####
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojanditama/ojanditama/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ojanditama/ojanditama/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ojanditama/ojanditama/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+####
