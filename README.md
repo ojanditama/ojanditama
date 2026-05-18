@@ -1,12 +1,5 @@
-<!-- Banner Image - Ganti dengan banner kamu sendiri (upload ke repo, buat di Canva) -->
 <p align="center">
   <img src="HI! I am Fauzan.png" alt="Banner" width="100%" />
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=[USERNAME].[USERNAME]" alt="visitors" />
-  <img src="https://img.shields.io/github/followers/[USERNAME]?style=social&label=Follow&maxAge=2592000" alt="followers" />
 </p>
 
 <h1 align="left">Hello World!👋</h1>
@@ -74,3 +67,10 @@
 </picture>
 
 ####
+
+<p align="right">It's saturday, sunday... WHATTT ??? - Lando</p>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=[USERNAME].[USERNAME]" alt="visitors" />
+</p>
