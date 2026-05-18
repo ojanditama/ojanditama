@@ -1,11 +1,9 @@
-## Hello World! 👋
-
 <!-- Banner Image - Ganti dengan banner kamu sendiri (upload ke repo, buat di Canva) -->
 <p align="center">
-  <img src="HI! i am Fauzan.png" alt="Banner" width="100%" />
+  <img src="HI! I am Fauzan.png" alt="Banner" width="100%" />
 </p>
 <!-- Nama & Subtitle -->
-
+<h2 align="center">Hello World! I am Fauzan 👋</h2>
 <br/>
 <!-- Badges -->
 <p align="center">
