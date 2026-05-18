@@ -13,7 +13,9 @@
 
 ###
 
-<p align="left">My name is Fauzan Aditama Syahroni and I'm a undergraduate infrmatics student from Telkom University</p>
+<p align="left">My name is Fauzan Aditama Syahroni — an Informatics student passionate about 
+  Machine Learning, AI Engineering, and Cyber Security. 
+  I love building intelligent and secure applications. 🚀</p>
 
 ###
 
